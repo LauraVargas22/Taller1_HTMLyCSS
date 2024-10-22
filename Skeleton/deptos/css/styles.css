@@ -13,11 +13,12 @@
 body {
     background-image: linear-gradient(#f3dc7f,#f6965b);
 }
-.santander{
+.deptos{
     text-align: center;
 }
-.textSantander {
+.textdeptos {
     text-align: justify;
+    font-size: 18px;
 }
 h1 {
     text-align: center;
@@ -51,4 +52,26 @@ h3 {
 p {
     text-align: justify;
     font-size: 20px;
+}
+
+h4 {
+    text-align: left;
+    font-size:25px;
+    font-weight: bold;
+    color: #2a4c09;
+}
+
+.p {
+    background-color: white;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.boton {
+    background-color: #102781;
+    border-bottom: white;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    line-height: 3;
 }
